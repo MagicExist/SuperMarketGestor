@@ -1,0 +1,2 @@
+_0,Admin,12345678,Admin
+_1,Johhan,1234,Cajero,Sucursal 1

@@ -1,0 +1,2 @@
+_0,Naranja,200,Sucursal 1,10
+_1,Mango,200,Sucursal 2,20

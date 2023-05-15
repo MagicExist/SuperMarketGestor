@@ -1,0 +1,16 @@
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\bin\Debug\Taller 2.exe.config
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\bin\Debug\Taller 2.exe
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\bin\Debug\Taller 2.pdb
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller 2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller_2.Inventario.resources
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller_2.Properties.Resources.resources
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller 2.csproj.GenerateResource.cache
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller 2.exe
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller 2.pdb
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\SingIn.singInMenu.resources
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\SingIn.Displays.Users.resources
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller_2.InventarioVendedores.resources
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\facturacion.FacturacionVendedores.resources
+C:\Users\user\Documents\programm\C#\herramientas\Taller 2\Taller 2\obj\Debug\Taller_2.Displays.Statistics.resources
